@@ -1,0 +1,3 @@
+#!/bin/bash
+clear
+export GOOGLE_APPLICATION_CREDENTIALS='testlivv-e99976c05907.json';
